@@ -43,7 +43,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Clone o projeto e acesse a pasta do mesmo.
 
 ```bash
-$ git clone https://github.com/Victornfb/spacetraveling-blog.git
+$ git clone https://github.com/vinizer4/ignite-spacetraveling-2021.git
 $ cd spacetraveling-blog
 ```
 
@@ -61,8 +61,3 @@ O app estará disponível no seu browser pelo endereço http://localhost:3000.
 Esse projeto está sob a licença MIT. Para mais detalhes:
 
 <a href="https://opensource.org/licenses/MIT" target="_blank"><img alt="Licença" src="https://img.shields.io/badge/license-MIT-0a66c2?style=flat-square"></a>
-
-Feito por [Victor Nunes](https://victornfb.com/)
-
-[![Linkedin Badge](https://img.shields.io/badge/-Victor%20Nunes-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victornfb/)](https://www.linkedin.com/in/victornfb/) 
-[![Gmail Badge](https://img.shields.io/badge/-victornfb@outlook.com-ea4435?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victornfb@outlook.com)](mailto:victornfb@outlook.com)
