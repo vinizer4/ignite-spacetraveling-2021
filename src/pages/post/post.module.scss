@@ -1,0 +1,123 @@
+.containerBanner{
+    height: 400px;
+    display: flex;
+    justify-content: center;
+
+    img{
+
+        width: 50%;
+        height: 100%;
+    }
+        
+    @media(max-width:720px){
+        width: 90%;
+    }
+    
+}
+
+.container{
+    max-width: 720px;
+    margin: 5rem auto;
+    padding: 0 2rem;
+    
+    article{
+        h1{
+            font-weight: 700;
+            font-size: 3rem;
+            color:var(--heading);
+            letter-spacing: -0.5px;
+            line-height: 3.63rem;
+        }
+    }
+
+    .containerDescription{
+        margin-top: 1.5rem;
+        
+        .blockIcon{
+            display: flex;
+            gap: 1.5rem;
+
+            span{
+
+                display: flex;
+                align-items: center;
+    
+                color: var(--info);
+          }
+
+            time, strong{
+                font-weight: 400;
+            }
+
+            svg{
+                margin-right: 0.5rem;
+            }
+        }
+        
+    }
+
+    .containerContent{
+        margin: 4rem 0;
+        
+        h2{
+            font-size: 2rem;
+            color: var(--heading);
+            margin: 2rem 0;
+        }
+
+        p{
+            text-align: justify;
+            margin-top: 2rem;
+            color: var(--body);
+            font-size: 1.1rem;
+        }
+
+        ul{
+            list-style: none;
+        }
+
+        *, a{
+            color: var(--body);
+        }
+    
+        a{
+            text-decoration: none;
+    
+            &:hover{
+                text-decoration: underline;
+            }
+        }
+
+
+     
+    }
+}
+
+
+.navigation{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-top: 1px solid #282C34;
+
+
+    h3{
+        font-size: 1.125rem;
+        font-weight: 400;
+        color:var(--heading);
+        margin-bottom: 0.5rem;
+    }
+    a{
+        color: var(--highlight);
+        font-weight: 600;
+    }
+
+    div{
+        padding-top: 3rem;
+    }
+
+    div + div{
+        text-align: right;
+    }
+}
+
