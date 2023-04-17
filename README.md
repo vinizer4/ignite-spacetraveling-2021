@@ -16,26 +16,4 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 - [Typescript](https://www.typescriptlang.org/)
 
 
----
-
-## Como baixar o projeto
-
-```bash
-    # Clonar repositório
-    $ git clone https://github.com/thyago608/spacetraveling
-
-    # Entrar no diretório da aplicação
-    $ cd spacetraveling
-
-    # Baixar as depedências
-    $ npm install
-
-    # Executando a aplicação
-    $ yarn dev
-```
-
-## Visite
-
 [spacetraveling](https://spacetraveling46723129.vercel.app/)
-
-Desenvolvido por Thyago Ribeiro 👋
